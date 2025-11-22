@@ -5,19 +5,21 @@
 <h1 align="center">Hi 👋, I'm Tushar Verma</h1>  
 <h3 align="center">Full-Stack Developer • Python | Django | MERN</h3>
 
-<!-- Visitors Count with rounded + neon glow -->
-<p align="center" style="background-color:#0d1117; display:inline-block; padding:5px 15px; border-radius:20px; box-shadow: 0 0 10px #00FF00, 0 0 20px #00FF00, 0 0 30px #00FF00;">
-  <a href="https://github.com/TusharV88">
-    <img 
-      src="https://komarev.com/ghpvc/?username=TusharV88&style=flat-square&color=00FF00&label=Visitors+Count" 
-      alt="TusharV88 Visitors" 
-    />
-  </a>
+<p align="center" style="margin-top: 20px;">
+  <span style="display:inline-block; padding:8px 20px; border-radius:25px; background-color:#0d1117; box-shadow:0 0 15px #00FF00, 0 0 30px #00FF00, 0 0 50px #00FF00;">
+    <a href="https://github.com/TusharV88" style="text-decoration:none;">
+      <img 
+        src="https://komarev.com/ghpvc/?username=TusharV88&style=flat-square&color=00FF00&label=Visitors+Count" 
+        alt="TusharV88 Visitors" 
+        style="border-radius:15px;"
+      />
+    </a>
+  </span>
 </p>
 
 ---
 
-🚀 About Me  
+## 🚀 About Me  
 - 🔥 Passionate Full‑Stack Developer  
 - 🧩 Love building projects in **Django, MERN & Python Automation**  
 - 🎯 Focused on **Clean UI + High Performance**  
@@ -27,35 +29,41 @@
 
 ## ⚡ Tech Stack & Skills
 
-### **Languages**  
-<p>
-  <img src="https://img.shields.io/badge/HTML-5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" />
+### Languages  
+<p align="center" style="margin-top:10px;">
+  <span style="display:inline-block; padding:5px; border-radius:15px; background-color:#0d1117; box-shadow:0 0 10px #61DAFB,0 0 20px #61DAFB;">
+    <img src="https://img.shields.io/badge/HTML-5-E34F26?style=flat&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS-3-1572B6?style=flat&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" />
+  </span>
 </p>
 
-### **Frameworks & Libraries**  
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=green" />
-  <img src="https://img.shields.io/badge/Tkinter-FF5733?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+### Frameworks & Libraries  
+<p align="center" style="margin-top:10px;">
+  <span style="display:inline-block; padding:5px; border-radius:15px; background-color:#0d1117; box-shadow:0 0 10px #61DAFB,0 0 20px #61DAFB;">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=green" />
+    <img src="https://img.shields.io/badge/Tkinter-FF5733?style=flat&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+  </span>
 </p>
 
-### **Tools & Technologies**  
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat" />
-  <img src="https://img.shields.io/badge/Bcrypt-FF5733?style=flat" />
-  <img src="https://img.shields.io/badge/CORS-005F73?style=flat" />
-  <img src="https://img.shields.io/badge/Nodemailer-FF6F61?style=flat" />
-  <img src="https://img.shields.io/badge/Mongoose-8800FF?style=flat" />
-  <img src="https://img.shields.io/badge/JWT-323330?style=flat&logo=jsonwebtokens&logoColor=white" />
+### Tools & Technologies  
+<p align="center" style="margin-top:10px;">
+  <span style="display:inline-block; padding:5px; border-radius:15px; background-color:#0d1117; box-shadow:0 0 10px #61DAFB,0 0 20px #61DAFB;">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=flat" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat" />
+    <img src="https://img.shields.io/badge/Bcrypt-FF5733?style=flat" />
+    <img src="https://img.shields.io/badge/CORS-005F73?style=flat" />
+    <img src="https://img.shields.io/badge/Nodemailer-FF6F61?style=flat" />
+    <img src="https://img.shields.io/badge/Mongoose-8800FF?style=flat" />
+    <img src="https://img.shields.io/badge/JWT-323330?style=flat&logo=jsonwebtokens&logoColor=white" />
+  </span>
 </p>
 
 ---
@@ -96,15 +104,6 @@
 
 <p align="center">  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TusharV88&theme=tokyonight&hide_border=true" />  
-</p>
-
----
-
-### ✨ Super Premium Badge Glow (Optional)
-<p align="center">
-  <img src="https://img.shields.io/badge/React-Floating-%2361DAFB?style=for-the-badge&logo=react&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Python-Glow-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-Neon-%23092E20?style=for-the-badge&logo=django&logoColor=green" />
 </p>
 
 ---

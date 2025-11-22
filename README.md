@@ -1,13 +1,71 @@
-# 💫 About Me:
-# 👋 Hi, I'm Tushar Verma  <br>### Full-Stack Developer | Python & Django Enthusiast | MERN Stack Developer<br><br>I'm a passionate software developer who loves building real-world applications using **Python, Django, React, and the MERN stack**.  <br>I focus on writing clean, scalable code and developing user-centric applications with strong backend logic.<br><br>### 🔥 What I Do<br>- 🖥️ Build full-stack projects with **MERN** & **Django**<br>- ⚙️ Create backend systems with **Node.js**, **Express**, **MongoDB**, and **Django**<br>- 🧠 Develop intelligent Python projects (Virtual Assistant, Automation)<br>- 📝 Work with APIs, authentication, JWT, and databases  <br>- 🎨 Craft responsive UI with React, Tailwind, and modern JS libraries<br><br>### 🛠️ Tech Stack<br>**Languages:** Python, JavaScript, C++, HTML, CSS  <br>**Frameworks/Libraries:** Django, React, Redux, MUI, Node.js, Express, OpenCV, Tkinter  <br>**Databases:** MongoDB, MySQL  <br>**Tools/Tech:** Git, REST APIs, JWT Auth, Nodemailer, Bcrypt, Axios  <br><br>### 📌 Featured Projects<br>- 🔗 **AniWeeab (MERN)** — Anime/Manga platform with secure auth  <br>- 📝 **Bloggers (Django)** — Blog platform with full CRUD & admin control  <br>- 🤖 **Nuvia** — Python virtual assistant with Face & Speech recognition  <br><br>### 🎯 Current Focus<br>- Applying for **Software Developer (Python/Django)** roles  <br>- Improving backend architecture & cloud deployment skills  <br>- Learning advanced data structures + system design basics  <br><br>---<br><br>### ⚡ Let's Build Something Awesome!<br>If you like my work or want to collaborate, feel free to reach out!<br>
+# 👋 Hi, I'm Tushar Verma  
+### 🚀 Full-Stack Developer | Python & Django Developer | MERN Stack Developer  
 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TusharV88&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=TusharV88&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TusharV88&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm a passionate software developer who loves creating real-world applications using Python, Django, JavaScript, React, Node.js, and MongoDB.  
+I enjoy solving problems, building scalable systems, and crafting clean UI/UX with modern web technologies.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TusharV88&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🔥 What I Do
+- 🖥️ Build full-stack web apps using Django & MERN
+- ⚙️ Create backend systems with Node.js, Express, MongoDB, Django ORM
+- 🤖 Develop intelligent Python apps (Virtual Assistant, Automation)
+- 🔐 Work with APIs, Authentication, JWT, and REST architectures  
+- 🎨 Build responsive UI using React, Redux, MUI, Tailwind, SwiperJS
+
+---
+
+# 🧰 Tech Stack
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Backend
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![NodeJS](https://img.shields.io/badge/NodeJS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MaterialUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Swiper](https://img.shields.io/badge/SwiperJS-6332F6?style=for-the-badge)
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+---
+
+# 📌 Featured Projects
+
+### 🔗 AniWeeab – MERN  
+Anime/Manga platform with secure authentication & modern UI.
+
+### 🔗 Bloggers – Django  
+Blogging system with CRUD, admin controls, and authentication.
+
+### 🔗 Nuvia – Python Virtual Assistant  
+Face + Speech recognition, automation, file creation, system tools.
+
+---
+
+# 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=TusharV88&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![Streak](https://nirzak-streak-stats.vercel.app/?user=TusharV88&theme=dark&hide_border=false)
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=TusharV88&theme=dark&hide_border=false&layout=compact)
+
+---
+
+# 🤝 Let's Connect!
+If you like my work or want to collaborate, feel free to reach out!

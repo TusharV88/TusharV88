@@ -11,7 +11,6 @@
     <img 
       src="https://komarev.com/ghpvc/?username=TusharV88&style=flat-square&color=00FF00&label=Visitors+Count" 
       alt="TusharV88 Visitors" 
-      style="border-radius:15px;"
     />
   </a>
 </p>

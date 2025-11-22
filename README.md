@@ -5,13 +5,12 @@
 <h1 align="center">Hi 👋, I'm Tushar Verma</h1>  
 <h3 align="center">Full-Stack Developer • Python | Django | MERN</h3>
 
-<!-- Visitors Count with rounded + neon glow -->
+
 <p align="center" style="background-color:#0d1117; display:inline-block; padding:5px 15px; border-radius:20px; box-shadow: 0 0 10px #00FF00, 0 0 20px #00FF00, 0 0 30px #00FF00;">
   <a href="https://github.com/TusharV88">
     <img 
       src="https://komarev.com/ghpvc/?username=TusharV88&style=flat-square&color=00FF00&label=Visitors+Count" 
-      alt="TusharV88 Visitors" 
-      style="border-radius:15px;"
+      alt="TusharV88 Visitors"
     />
   </a>
 </p>
@@ -29,7 +28,7 @@
 ⚡ Tech Stack & Skills
 
 **Languages**  
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/HTML-5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
@@ -63,20 +62,20 @@
 
 🚀 Featured Projects
 
-**AniWeeab** | MERN Stack | 2023–2024  
+**1. AniWeeab** | MERN Stack | 2023–2024  
 - Dynamic platform for anime and manga enthusiasts to manage favorites and write reviews.  
 - Implemented **user authentication** with login, register, and account deletion.  
 - Dedicated pages: home, anime, manga, search, favorites, reviews, etc.  
 - **Frontend:** HTML, CSS, JS, React, Redux, RTK Query, MUI, Vanilla Tilt JS, React-Router-DOM, Swiper, React-Toastify  
 - **Backend:** Node.js, Express, MongoDB, Axios, Bcrypt, CORS, Nodemailer, Mongoose, JWT  
 
-**Bloggers** | HTML, CSS, Python, Django | 2023  
+**2. Bloggers** | HTML, CSS, Python, Django | 2023  
 - User authentication with **sign-in and sign-up**.  
 - Users can **create and edit posts**.  
 - Admin privileges for post deletion.  
 - Pages: home, about, contact.
 
-**Nuvia (Virtual Assistant)** | Python, Tkinter, OpenCV, Pyttsx3 | 2021–2022  
+**3. Nuvia (Virtual Assistant)** | Python, Tkinter, OpenCV, Pyttsx3 | 2021–2022  
 - Uses **speech recognition** for input and **Pyttsx3** for text-to-speech.  
 - **Face recognition** via OpenCV + password protection.  
 - Provides **jokes, news, date/time, CPU/battery info, weather**.  

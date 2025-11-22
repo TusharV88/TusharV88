@@ -28,33 +28,33 @@
 
 ### **Languages**  
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" />
 </p>
 
 ### **Frameworks & Libraries**  
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
-  <img src="https://img.shields.io/badge/Tkinter-FF5733?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=green" />
+  <img src="https://img.shields.io/badge/Tkinter-FF5733?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
 </p>
 
 ### **Tools & Technologies**  
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Bcrypt-FF5733?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CORS-005F73?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Nodemailer-FF6F61?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mongoose-8800FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JWT-323330?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat" />
+  <img src="https://img.shields.io/badge/Bcrypt-FF5733?style=flat" />
+  <img src="https://img.shields.io/badge/CORS-005F73?style=flat" />
+  <img src="https://img.shields.io/badge/Nodemailer-FF6F61?style=flat" />
+  <img src="https://img.shields.io/badge/Mongoose-8800FF?style=flat" />
+  <img src="https://img.shields.io/badge/JWT-323330?style=flat&logo=jsonwebtokens&logoColor=white" />
 </p>
 
 ---

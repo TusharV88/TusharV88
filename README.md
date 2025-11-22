@@ -1,73 +1,68 @@
+<!-- Banner (Permanent GIF from Giphy – no load issue) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Banner GIF" width="100%">
+  <img src="https://i.gifer.com/7VE.gif" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Tushar Verma</h1>
+<h3 align="center">Full-Stack Developer • Python | Django | MERN</h3>
+
+---
+
+## 🚀 About Me  
+- 🔥 Passionate Full‑Stack Developer  
+- 🧩 Love building projects in **Django, MERN & Python Automation**  
+- 🎯 Focused on Clean UI + High Performance  
+- 🌱 Currently learning **advanced backend & cloud deployment**  
+
+---
+
+## ⚡ Tech Stack
+
+### **Languages**
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![C++](https://img.shields.io/badge/C++-1f1f1f?style=for-the-badge&logo=cplusplus)
+
+### **Frameworks**
+![Django](https://img.shields.io/badge/Django-0A0F0D?style=for-the-badge&logo=django&logoColor=green)
+![React](https://img.shields.io/badge/React-0A0F0D?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js)
+
+### **Databases & Tools**
+![MongoDB](https://img.shields.io/badge/MongoDB-0a0f0d?style=for-the-badge&logo=mongodb)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
+![VSCode](https://img.shields.io/badge/VS%20Code-111111?style=for-the-badge&logo=visual-studio-code)
+
+---
+
+## 📊 GitHub Analytics
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=TusharV88&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharV88&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TusharV88&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 💻 About Me
-I'm a **Full-Stack Developer** passionate about building **web apps, Python projects, and AI experiments**.  
-Currently exploring **Django, MERN, and Python automation projects**.
+## 🚀 Featured Projects
+
+| Name | Description | Tech |
+|------|-------------|------|
+| **AniWeeab** | Anime & Manga Platform | MERN |
+| **Bloggers** | Blog App w/ Auth & Admin | Django |
+| **Nuvia (AI Assistant)** | Python Virtual Assistant | Python, OpenCV |
 
 ---
 
-### 🌐 Skills
-
-#### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-#### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-### 📈 GitHub Stats
+## ✨ Fun Animation  
 <p align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://i.gifer.com/origin/9c/9c9e96d1dfaf9a80e1f2afe7f18413cf_w200.gif" width="200" />
 </p>
 
 ---
 
-### 🚀 Projects
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| AniWeeab | Anime & Manga platform | MERN Stack |
-| Bloggers | Blogging platform with admin & auth | Django, Python |
-| Nuvia | Virtual assistant with speech & face recognition | Python, Tkinter, OpenCV |
-
----
-
-### 📫 Contact Me
-<p align="center">
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="50" />
-</p>
+### ⭐ If you like my work, give a star 😄  

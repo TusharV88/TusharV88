@@ -1,71 +1,97 @@
-# 👋 Hi, I'm Tushar Verma  
-### 🚀 Full-Stack Developer | Python & Django Developer | MERN Stack Developer  
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/your-username/your-username/blob/main/assets/banner.gif" width="100%" alt="Banner"/>
+</p>
 
-I'm a passionate software developer who loves creating real-world applications using Python, Django, JavaScript, React, Node.js, and MongoDB.  
-I enjoy solving problems, building scalable systems, and crafting clean UI/UX with modern web technologies.
+<h1 align="center">Hi 👋, I'm Tushar Verma</h1>
+<h3 align="center">Full-Stack Developer | Python & Django | MERN | Open-Source Enthusiast</h3>
 
----
-
-## 🔥 What I Do
-- 🖥️ Build full-stack web apps using Django & MERN
-- ⚙️ Create backend systems with Node.js, Express, MongoDB, Django ORM
-- 🤖 Develop intelligent Python apps (Virtual Assistant, Automation)
-- 🔐 Work with APIs, Authentication, JWT, and REST architectures  
-- 🎨 Build responsive UI using React, Redux, MUI, Tailwind, SwiperJS
-
----
-
-# 🧰 Tech Stack
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Backend
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![NodeJS](https://img.shields.io/badge/NodeJS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MaterialUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![Swiper](https://img.shields.io/badge/SwiperJS-6332F6?style=for-the-badge)
-
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+<p align="center">
+  <a href="https://github.com/Tushar-vermaa?tab=followers">
+    <img src="https://img.shields.io/github/followers/Tushar-vermaa?style=for-the-badge&color=blue">
+  </a>
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=Tushar-vermaa">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Tushar-vermaa&style=for-the-badge&color=yellow">
+  </a>
+</p>
 
 ---
 
-# 📌 Featured Projects
+## 🚀 About Me
 
-### 🔗 AniWeeab – MERN  
-Anime/Manga platform with secure authentication & modern UI.
-
-### 🔗 Bloggers – Django  
-Blogging system with CRUD, admin controls, and authentication.
-
-### 🔗 Nuvia – Python Virtual Assistant  
-Face + Speech recognition, automation, file creation, system tools.
+- 🔥 Passionate Full-Stack Developer  
+- 🧑‍💻 Experienced with **Python, Django, MERN Stack, ML basics**  
+- 🌱 Currently learning **Advanced Python, APIs, and Cloud**  
+- 🎯 Goal: Become a top-tier **Software Developer**  
+- 💡 Love building real-world projects & solving problems  
 
 ---
 
-# 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=TusharV88&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![Streak](https://nirzak-streak-stats.vercel.app/?user=TusharV88&theme=dark&hide_border=false)
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=TusharV88&theme=dark&hide_border=false&layout=compact)
+# 🛠️ **Tech Stack**
+
+### **🚀 Programming Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css" />
+</p>
+
+### **🌐 Web Development**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,mongodb,django" />
+</p>
+
+### **🧰 Tools & Technologies**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+</p>
 
 ---
 
-# 🤝 Let's Connect!
-If you like my work or want to collaborate, feel free to reach out!
+# ⭐ **Featured Projects**
+
+### 🔸 **AniWeeab (MERN Stack)**
+Anime & Manga platform with authentication  
+➡️ React, MongoDB, Node, Express  
+
+### 🔸 **Bloggers (Django)**
+Full blogging platform with authentication & admin panel  
+
+### 🔸 **Nuvia (Python Virtual Assistant)**
+Face recognition + speech recognition + smart commands  
+
+---
+
+# 📊 **GitHub Stats**
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tushar-vermaa&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tushar-vermaa&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar-vermaa&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 🏆 **GitHub Achievements**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tushar-vermaa&theme=tokyonight&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+# 🤝 **Connect With Me**
+<p align="left">
+  <a href="https://www.linkedin.com/in/tushar-vermaa/">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+  <a href="mailto:tusharverma8665@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ **If you like my profile or projects, consider giving a star!** ⭐
+</p>

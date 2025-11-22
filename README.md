@@ -5,11 +5,13 @@
 <h1 align="center">Hi 👋, I'm Tushar Verma</h1>  
 <h3 align="center">Full-Stack Developer • Python | Django | MERN</h3>
 
-<p align="center" style="margin-top: 20px;">
+<!-- Visitors Count with rounded + neon glow -->
+<p align="center" style="background-color:#0d1117; display:inline-block; padding:5px 15px; border-radius:20px; box-shadow: 0 0 10px #00FF00, 0 0 20px #00FF00, 0 0 30px #00FF00;">
   <a href="https://github.com/TusharV88">
     <img 
       src="https://komarev.com/ghpvc/?username=TusharV88&style=flat-square&color=00FF00&label=Visitors+Count" 
       alt="TusharV88 Visitors" 
+      style="border-radius:15px;"
     />
   </a>
 </p>
@@ -95,6 +97,15 @@
 
 <p align="center">  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TusharV88&theme=tokyonight&hide_border=true" />  
+</p>
+
+---
+
+### ✨ Super Premium Badge Glow (Optional)
+<p align="center">
+  <img src="https://img.shields.io/badge/React-Floating-%2361DAFB?style=for-the-badge&logo=react&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Python-Glow-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-Neon-%23092E20?style=for-the-badge&logo=django&logoColor=green" />
 </p>
 
 ---

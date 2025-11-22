@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 About Me  
+🚀 About Me  
 - 🔥 Passionate Full‑Stack Developer  
 - 🧩 Love building projects in **Django, MERN & Python Automation**  
 - 🎯 Focused on **Clean UI + High Performance**  

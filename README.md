@@ -1,28 +1,19 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Tushar Verma</h1>
 <h3 align="center">Full-Stack Developer • Python | Django | MERN</h3>
 
-<!-- Visitor Count -->
+<!-- Visitors Count -->
 <p align="center" style="margin-top: 20px;">
   <a href="https://github.com/TusharV88">
     <img 
-      src="https://komarev.com/ghpvc/?username=TusharV88&style=for-the-badge&color=00FFF7&label=Visitors+Count" 
+      src="https://komarev.com/ghpvc/?username=TusharV88&style=flat-square&color=00FFF7&label=Visitors+Count" 
       alt="TusharV88 Visitors" 
-      style="filter: drop-shadow(0 0 15px #00FFF7); animation: float 3s ease-in-out infinite;"
     />
   </a>
 </p>
-
-<style>
-@keyframes float {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-8px); }
-  100% { transform: translateY(0px); }
-}
-</style>
 
 ---
 

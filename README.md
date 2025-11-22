@@ -7,13 +7,17 @@
 
 ---
 
-## 🚀 About Me  
-- 🔥 Passionate Full‑Stack Developer  
-- 🧩 Love building projects in **Django, MERN & Python Automation**  
-- 🎯 Focused on Clean UI + High Performance  
-- 🌱 Currently learning **advanced backend & cloud deployment**  
+## 🔥 Visitor Count
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TusharV88&style=for-the-badge&color=00ADB5" alt="TusharV88 Visitors" />
+</p>
 
 ---
+
+## 🚀 About Me  
+- 🔥 Passionate Full‑Stack Developer  
+- 🧩 Love building projects in **Django, MERN & Python Automation** - 🎯 Focused on Clean UI + High Performance  
+- 🌱 Currently learning **advanced backend & cloud deployment** ---
 
 ## ⚡ Tech Stack & Skills
 
@@ -86,9 +90,9 @@
 
 ## ✨ Fun Animation  
 <p align="center">
-  <img src="https://i.gifer.com/origin/9c/9c9e96d1dfaf9a80e1f2afe7f18413cf_w200.gif" width="200" />
+  <img src="https://i.gifer.com/XOsX.gif" width="200" />
 </p>
 
 ---
 
-### ⭐ If you like my work, give a star 😄  
+### ⭐ If you like my work, give a star 😄

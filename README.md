@@ -8,16 +8,31 @@
 ---
 
 ## 🔥 Visitor Count
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TusharV88&style=for-the-badge&color=00ADB5" alt="TusharV88 Visitors" />
+  <a href="https://github.com/TusharV88">
+    <img 
+      src="https://komarev.com/ghpvc/?username=TusharV88&style=flat-square&color=00ADB5&label=Visitors+Count" 
+      alt="TusharV88 Visitors" 
+    />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-Stars-FFD700?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Forks-9cf?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Issues-F44336?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
 ## 🚀 About Me  
 - 🔥 Passionate Full‑Stack Developer  
-- 🧩 Love building projects in **Django, MERN & Python Automation** - 🎯 Focused on Clean UI + High Performance  
-- 🌱 Currently learning **advanced backend & cloud deployment** ---
+- 🧩 Love building projects in **Django, MERN & Python Automation**  
+- 🎯 Focused on **Clean UI + High Performance**  
+- 🌱 Currently learning **advanced backend & cloud deployment**
+
+---
 
 ## ⚡ Tech Stack & Skills
 

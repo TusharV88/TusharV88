@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" alt="banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Tushar Verma</h1>  
@@ -8,7 +8,7 @@
 <p align="center" style="margin-top: 20px;">
   <a href="https://github.com/TusharV88">
     <img 
-      src="https://komarev.com/ghpvc/?username=TusharV88&style=flat-square&color=00FFF7&label=Visitors+Count" 
+      src="https://komarev.com/ghpvc/?username=TusharV88&style=flat-square&color=00FF00&label=Visitors+Count" 
       alt="TusharV88 Visitors" 
     />
   </a>
@@ -65,24 +65,22 @@
 - Dynamic platform for anime and manga enthusiasts to manage favorites and write reviews.  
 - Implemented **user authentication** with login, register, and account deletion.  
 - Dedicated pages: home, anime, manga, search, favorites, reviews, etc.  
-- **Frontend:** HTML, CSS, JS, React, Redux, RTK Query, MUI, Vanilla Tilt JS, React-Router-DOM, Swiper, React-Toastify  
-- **Backend:** Node.js, Express, MongoDB, Axios, Bcrypt, CORS, Nodemailer, Mongoose, JWT
+- **Frontend:** React, Redux, RTK Query, MUI, Vanilla Tilt, Swiper, React-Toastify  
+- **Backend:** Node.js, Express, MongoDB, Axios, Bcrypt, CORS, Nodemailer, Mongoose, JWT  
 
 ### **Bloggers** | HTML, CSS, Python, Django | 2023  
-- User authentication with **sign-in and sign-up**.  
-- Users can **create and edit posts**.  
-- Admin privileges for post deletion.  
-- Pages: home, about, contact.
+- User authentication (sign-in/sign-up)  
+- Users can **create & edit blog posts**  
+- Admin rights for deletion  
+- Pages: home, about, contact  
 
 ### **Nuvia (Virtual Assistant)** | Python, Tkinter, OpenCV, Pyttsx3 | 2021–2022  
-- Uses **speech recognition** for input and **Pyttsx3** for text-to-speech.  
-- **Face recognition** via OpenCV + password protection.  
-- Provides **jokes, news, date/time, CPU/battery info, weather**.  
-- Creates **Excel, Word, PowerPoint, text files**.  
-- Plays, searches, and downloads YouTube videos.  
-- Provides Google directions and sends WhatsApp messages.  
-- Solves math problems: trigonometry, logarithms, binary, factorials, bit shifts.  
-- Customizable: profile photo, name, voice, voice rate, volume.
+- Speech recognition + Text‑to‑Speech  
+- Face recognition for security  
+- Provides jokes, news, date/time, weather, CPU/battery info  
+- Creates Word, Excel, PPT, text files  
+- Math solver (trig, binary, factorials, etc.)  
+- Can send WhatsApp messages + Google maps directions  
 
 ---
 

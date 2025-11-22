@@ -6,16 +6,11 @@
 <h3 align="center">Full‑Stack Developer • Python | Django | MERN</h3>
 
 <p align="center" style="margin-top: 20px;">
-  <span style="display:inline-block; padding:8px 20px; border-radius:25px; background-color:#0d1117; box-shadow: 0 0 10px #00FF00, 0 0 25px #00FF00;">
-    <a href="https://github.com/TusharV88" style="text-decoration:none;">
-      <!-- Replace this src with your custom badge URL -->
-      <img
-        src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/visitors-badge.svg"
-        alt="Visitors Count"
-        style="border-radius:15px;"
-      />
-    </a>
-  </span>
+  <!-- Visitors Count — using Komarev counter -->
+  <img 
+    src="https://komarev.com/ghpvc/?username=TusharV88&style=flat-square&color=00FF00&label=Visitors+Count" 
+    alt="TusharV88 Visitors" 
+  />
 </p>
 
 ---
@@ -30,42 +25,35 @@
 
 ## ⚡ Tech Stack & Skills
 
-### **Languages**  
-<p align="center" style="margin-top:10px;">
-  <span style="display:inline-block; padding:6px; border-radius:15px; background-color:#0d1117; box-shadow: 0 0 8px #61DAFB, 0 0 18px #61DAFB;">
-    <!-- Replace badge URLs with your custom-made badge images if needed -->
-    <img src="https://img.shields.io/badge/HTML-5-E34F26?style=flat&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS-3-1572B6?style=flat&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" />
-  </span>
+### Languages  
+<p align="center">  
+  <img src="https://img.shields.io/badge/HTML-5-E34F26?style=flat&logo=html5&logoColor=white" />  
+  <img src="https://img.shields.io/badge/CSS-3-1572B6?style=flat&logo=css3&logoColor=white" />  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />  
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" />  
 </p>
 
-### **Frameworks & Libraries**  
-<p align="center" style="margin-top:10px;">
-  <span style="display:inline-block; padding:6px; border-radius:15px; background-color:#0d1117; box-shadow: 0 0 8px #61DAFB, 0 0 18px #61DAFB;">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
-    <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=green" />
-    <img src="https://img.shields.io/badge/Tkinter-FF5733?style=flat&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-  </span>
+### Frameworks & Libraries  
+<p align="center">  
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />  
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=green" />  
+  <img src="https://img.shields.io/badge/Tkinter-FF5733?style=flat&logo=python&logoColor=white" />  
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />  
 </p>
 
-### **Tools & Technologies**  
-<p align="center" style="margin-top:10px;">
-  <span style="display:inline-block; padding:6px; border-radius:15px; background-color:#0d1117; box-shadow: 0 0 8px #61DAFB, 0 0 18px #61DAFB;">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=flat" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat" />
-    <img src="https://img.shields.io/badge/Bcrypt-FF5733?style=flat" />
-    <img src="https://img.shields.io/badge/CORS-005F73?style=flat" />
-    <img src="https://img.shields.io/badge/Nodemailer-FF6F61?style=flat" />
-    <img src="https://img.shields.io/badge/Mongoose-8800FF?style=flat" />
-    <img src="https://img.shields.io/badge/JWT-323330?style=flat&logo=jsonwebtokens&logoColor=white" />
-  </span>
+### Tools & Technologies  
+<p align="center">  
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat" />  
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat" />  
+  <img src="https://img.shields.io/badge/Bcrypt-FF5733?style=flat" />  
+  <img src="https://img.shields.io/badge/CORS-005F73?style=flat" />  
+  <img src="https://img.shields.io/badge/Nodemailer-FF6F61?style=flat" />  
+  <img src="https://img.shields.io/badge/Mongoose-8800FF?style=flat" />  
+  <img src="https://img.shields.io/badge/JWT-323330?style=flat&logo=jsonwebtokens&logoColor=white" />  
 </p>
 
 ---
@@ -74,20 +62,24 @@
 
 ### **AniWeeab** | MERN Stack | 2023–2024  
 - Dynamic platform for anime and manga enthusiasts to manage favorites and write reviews.  
-- Implemented **authentication, review system, search, favorites**.  
-- **Frontend:** React, Redux, MUI, Swiper…  
-- **Backend:** Node.js, Express, MongoDB, JWT…
+- Implemented **user authentication** with login, register, and account deletion.  
+- Dedicated pages: home, anime, manga, search, favorites, reviews, etc.  
+- **Frontend:** React, Redux, RTK Query, MUI, Vanilla Tilt, Swiper, React-Toastify  
+- **Backend:** Node.js, Express, MongoDB, Axios, Bcrypt, CORS, Nodemailer, Mongoose, JWT  
 
-### **Bloggers** | Django, HTML, CSS | 2023  
-- Users can **sign in/out**.  
-- Create/edit posts, admin panel for deletion.  
+### **Bloggers** | HTML, CSS, Python, Django | 2023  
+- User authentication: sign‑in / sign‑up.  
+- Users can **create & edit blog posts**.  
+- Admin can delete posts.  
 - Pages: home, about, contact.
 
 ### **Nuvia (Virtual Assistant)** | Python, Tkinter, OpenCV, Pyttsx3 | 2021–2022  
-- Speech recognition + TTS  
-- Face recognition + security  
-- Jokes, weather, Excel/PPT/text file creation  
-- WhatsApp messaging + Google maps + Math solver
+- Speech recognition + text‑to‑speech.  
+- Face‑recognition for security.  
+- Jokes, news, date/time, CPU & battery info, weather.  
+- Excel, PowerPoint, Word, text file creation.  
+- Math solver, WhatsApp messaging, Google directions.  
+- Customizable voice, profile photo, etc.
 
 ---
 
@@ -104,4 +96,4 @@
 
 ---
 
-### ⭐ If you like my work, give a star 😄  
+### ⭐ If you like my work, give a star 😄

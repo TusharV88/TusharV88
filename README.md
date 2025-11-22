@@ -5,13 +5,13 @@
 <h1 align="center">Hi 👋, I'm Tushar Verma</h1>  
 <h3 align="center">Full-Stack Developer • Python | Django | MERN</h3>
 
-<p align="center" style="margin-top: 20px;">
-  <span style="display:inline-block; padding:8px 20px; border-radius:25px; background-color:#0d1117; box-shadow:0 0 15px #00FF00, 0 0 30px #00FF00, 0 0 50px #00FF00;">
+<p align="center">
+  <span style="display:inline-block; padding:8px 20px; border-radius:25px; background-color:#0d1117; box-shadow: 0 0 10px #00FF00, 0 0 25px #00FF00;">
     <a href="https://github.com/TusharV88" style="text-decoration:none;">
-      <img 
-        src="https://komarev.com/ghpvc/?username=TusharV88&style=flat-square&color=00FF00&label=Visitors+Count" 
-        alt="TusharV88 Visitors" 
-        style="border-radius:15px;"
+      <img
+        src="https://komarev.com/ghpvc/?username=TusharV88&style=flat-square&color=00FF00&label=Visitors+Count"
+        alt="TusharV88 Visitors"
+        style="border-radius:12px;"
       />
     </a>
   </span>
@@ -19,19 +19,11 @@
 
 ---
 
-## 🚀 About Me  
-- 🔥 Passionate Full‑Stack Developer  
-- 🧩 Love building projects in **Django, MERN & Python Automation**  
-- 🎯 Focused on **Clean UI + High Performance**  
-- 🌱 Currently learning **advanced backend & cloud deployment**
-
----
-
 ## ⚡ Tech Stack & Skills
 
-### Languages  
-<p align="center" style="margin-top:10px;">
-  <span style="display:inline-block; padding:5px; border-radius:15px; background-color:#0d1117; box-shadow:0 0 10px #61DAFB,0 0 20px #61DAFB;">
+### **Languages**  
+<p align="center">
+  <span style="display:inline-block; padding:6px; border-radius:15px; background-color:#0d1117; box-shadow: 0 0 8px #61DAFB, 0 0 18px #61DAFB;">
     <img src="https://img.shields.io/badge/HTML-5-E34F26?style=flat&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS-3-1572B6?style=flat&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
@@ -40,9 +32,9 @@
   </span>
 </p>
 
-### Frameworks & Libraries  
-<p align="center" style="margin-top:10px;">
-  <span style="display:inline-block; padding:5px; border-radius:15px; background-color:#0d1117; box-shadow:0 0 10px #61DAFB,0 0 20px #61DAFB;">
+### **Frameworks & Libraries**  
+<p align="center">
+  <span style="display:inline-block; padding:6px; border-radius:15px; background-color:#0d1117; box-shadow: 0 0 8px #61DAFB, 0 0 18px #61DAFB;">
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
     <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
     <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=green" />
@@ -51,9 +43,9 @@
   </span>
 </p>
 
-### Tools & Technologies  
-<p align="center" style="margin-top:10px;">
-  <span style="display:inline-block; padding:5px; border-radius:15px; background-color:#0d1117; box-shadow:0 0 10px #61DAFB,0 0 20px #61DAFB;">
+### **Tools & Technologies**  
+<p align="center">
+  <span style="display:inline-block; padding:6px; border-radius:15px; background-color:#0d1117; box-shadow: 0 0 8px #61DAFB, 0 0 18px #61DAFB;">
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Express.js-000000?style=flat" />
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
@@ -71,27 +63,16 @@
 ## 🚀 Featured Projects
 
 ### **AniWeeab** | MERN Stack | 2023–2024  
-- Dynamic platform for anime and manga enthusiasts to manage favorites and write reviews.  
-- Implemented **user authentication** with login, register, and account deletion.  
-- Dedicated pages: home, anime, manga, search, favorites, reviews, etc.  
-- **Frontend:** HTML, CSS, JS, React, Redux, RTK Query, MUI, Vanilla Tilt JS, React-Router-DOM, Swiper, React-Toastify  
-- **Backend:** Node.js, Express, MongoDB, Axios, Bcrypt, CORS, Nodemailer, Mongoose, JWT  
+- Dynamic platform for anime and manga lovers with reviews, favorites & auth.  
+- **Frontend:** React, Redux, MUI, etc.  
+- **Backend:** Node.js, Express, MongoDB, JWT, Bcrypt.
 
-### **Bloggers** | HTML, CSS, Python, Django | 2023  
-- User authentication with **sign-in and sign-up**.  
-- Users can **create and edit posts**.  
-- Admin privileges for post deletion.  
+### **Bloggers** | HTML, CSS, Django | 2023  
+- Blog platform with user auth, posts, admin deletion.  
 - Pages: home, about, contact.
 
 ### **Nuvia (Virtual Assistant)** | Python, Tkinter, OpenCV, Pyttsx3 | 2021–2022  
-- Uses **speech recognition** for input and **Pyttsx3** for text-to-speech.  
-- **Face recognition** via OpenCV + password protection.  
-- Provides **jokes, news, date/time, CPU/battery info, weather**.  
-- Creates **Excel, Word, PowerPoint, text files**.  
-- Plays, searches, and downloads YouTube videos.  
-- Provides Google directions and sends WhatsApp messages.  
-- Solves math problems: trigonometry, logarithms, binary, factorials, bit shifts.  
-- Customizable: profile photo, name, voice, voice rate, volume.
+- Speech recognition + face ID, jokes, weather, Google directions, math solver, file creation, etc.
 
 ---
 
@@ -104,6 +85,15 @@
 
 <p align="center">  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TusharV88&theme=tokyonight&hide_border=true" />  
+</p>
+
+---
+
+### ✨ Optional Animated Glowy Badges  
+*(Use these only if you host custom GIF badges / create them using a badge‑maker tool)*  
+<p align="center">  
+  <img src="https://yourcustomdomain.com/react-glow.gif" alt="React Glow Badge" />  
+  <img src="https://yourcustomdomain.com/python-glow.gif" alt="Python Glow Badge" />  
 </p>
 
 ---

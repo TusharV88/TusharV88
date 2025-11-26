@@ -90,12 +90,16 @@
 📊 GitHub Analytics
 
 <p align="center">
-  <img height="160px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TusharV88&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TusharV88&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TusharV88&theme=tokyo-night&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TusharV88&theme=tokyonight&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=TusharV88&style=flat-square&color=blue" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TusharV88&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TusharV88&theme=tokyonight" />
 </p>
 
 ---

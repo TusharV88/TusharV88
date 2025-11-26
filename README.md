@@ -92,11 +92,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TusharV88&theme=tokyo-night&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TusharV88&style=flat-square&color=blue" />
-</p>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TusharV88&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TusharV88&theme=tokyonight" />
